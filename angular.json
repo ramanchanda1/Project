@@ -23,6 +23,9 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/mdbootstrap/css/bootstrap.min.css",
+              "./node_modules/mdbootstrap/css/mdb.min.css",
+              "./node_modules/mdbootstrap/css/style.css",              
               "src/styles.css"
             ],
             "scripts": [],
